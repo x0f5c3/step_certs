@@ -1,6 +1,6 @@
-module github.com/smallstep/certificates
+module github.com/x0f5c3/step_certs
 
-go 1.20
+go 1.21
 
 require (
 	cloud.google.com/go/longrunning v0.5.1
